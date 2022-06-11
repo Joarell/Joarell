@@ -6,7 +6,7 @@ I'm Jev - Joarell.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joarell&layout=compact&langs_conunt=16&theme=dark"/>
     
 - 🔭 I’m currently working on artwork market as a shipper in Brazil.
-- 🌱 I’m currently learning C, Python and JavaScript.
+- 🌱 I’m currently learning C, Python, HTML, CSS, JavaScript and Rust.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with a algorithm to design crate for artworks. 
 - Pronouns: His/him
@@ -17,6 +17,7 @@ I'm Jev - Joarell.
   <img align="center" alt="Joarell-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Joarell-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Joarell-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Joarell-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
   <img align="center" alt="Joarell-neovim" height="30" width="90" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </div>
     
