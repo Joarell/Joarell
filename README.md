@@ -16,7 +16,7 @@ I'm Jev - Joarell.
 <div style="display: inline_block"><br>
   <img align="center" alt="Joarell-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Joarell-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Joarell-JavaScript" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)"/>
+  <img align="center" alt="Joarrell-JavaScript" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
     
 ##
