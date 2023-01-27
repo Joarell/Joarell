@@ -5,9 +5,8 @@ I'm Jev - Joarell.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joarell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joarell&layout=compact&langs_conunt=16&theme=dark"/>
     
-- 🔭 I’m currently working on artwork market as a shipper in Brazil.
+- 🔭 I’m currently working on my personal project.
 - 🌱 I’m currently learning C, Python, HTML, CSS, JavaScript and Rust.
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with a algorithm to design crate for artworks. 
 - Pronouns: His/him
 
