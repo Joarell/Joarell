@@ -3,7 +3,7 @@ I'm Jev - Joarell.
 <div>
   <a href="https://github.com/Joarell">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joarell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joarell&layout=compact&langs_conunt=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joarell&layout=compact&langs_conunt=16&theme=dark"/>
     
 - 🔭 I’m currently working on my personal project.
 - 🌱 I’m currently learning C, Python, HTML, CSS, JavaScript and Rust.
