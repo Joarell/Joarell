@@ -18,7 +18,7 @@ I'm Jev - Joarell.
   <img align="center" alt="Joarell-HTML-5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Joarell-CSS-3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Joarell-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Joarell-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
+  <img align="center" alt="Joarell-Rust" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg"/>
   <img align="center" alt="Joarell-neovim" height="30" width="90" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </div>
     
