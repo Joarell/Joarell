@@ -18,7 +18,6 @@ I'm Jev - Joarell.
   <img align="center" alt="Joarell-CSS-3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Joarell-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Joarell-neovim" height="30" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"/>
-  <!--<img align="center" alt="Joarell-Rust" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg"/>-->
 </div>
     
 ##
